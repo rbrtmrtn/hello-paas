@@ -8,7 +8,7 @@
     "express": "^4.17.1"
   },
   "scripts": {
-    "serve": "node index.js"
+    "start": "node index.js"
   },
   "author": "Robert Martin <rmartin@rmart.in>",
   "license": "ISC"
